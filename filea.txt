@@ -1,0 +1,3 @@
+something new in local 
+edited here in remote repository
+edited here in local
